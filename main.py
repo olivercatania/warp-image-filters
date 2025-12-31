@@ -238,8 +238,7 @@ def main():
         print("Creating new folder \"all_images\"")
         
 
-    # check if image is in all_images
-    
+    # Check if image is in all_images
     found = find_image(base_dir, inFileName)
     if found == None:
         print(f"---------\nERROR: Given filename {inFileName} was not found in \"in_images\"\n---------")
