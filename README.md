@@ -27,8 +27,7 @@ Uses **warp-lang** for compute kernels and **Pillow** for image I/O.
 ## Requirements
 
 - Python **3.11+**
-- Dependencies are defined in `pyproject.toml` (managed with `uv`)
-
+- Dependencies are defined in `pyproject.toml`
 ---
 
 ## Setup
