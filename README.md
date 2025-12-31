@@ -31,7 +31,7 @@ Uses **warp-lang** for compute kernels and **Pillow** for image I/O.
 
 ---
 
-## Setup (recommended: uv)
+## Setup
 
 From the repo root:
 
