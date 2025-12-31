@@ -85,16 +85,3 @@ all_images/out_images/<outFileName>
 ```
 
 ---
-
-## .gitignore (recommended)
-
-Create a `.gitignore` with:
-
-```
-.venv/
-__pycache__/
-*.pyc
-all_images/out_images/*
-```
-
-(Optionally ignore `all_images/in_images/*` if you don’t want to commit sample inputs.)
